@@ -2,7 +2,7 @@
   "path": "/",
   "blocks": [
     {
-      "content": "",
+      "content": "Some Co",
       "center": false,
       "_template": "ContentBlock"
     }
