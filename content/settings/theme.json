@@ -1,8 +1,8 @@
 {
   "color": {
-    "black": "#131110",
+    "black": "#3D3D33",
     "white": "#f7f7f7",
-    "primary": "#007043",
+    "primary": "#034128",
     "secondary": "#B8A45D"
   },
   "easing": "cubic-bezier(0.215, 0.610, 0.355, 1.000)",
@@ -19,7 +19,7 @@
     "overline": true,
     "transparent": true,
     "height": "3.25rem",
-    "underline": true
+    "underline": false
   },
   "hero": {
     "image": "../images/cafe.jpg",
